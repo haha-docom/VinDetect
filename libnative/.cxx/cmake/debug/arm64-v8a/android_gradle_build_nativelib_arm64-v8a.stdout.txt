@@ -1,0 +1,2 @@
+ninja: Entering directory `D:\download\objectDetection\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\libnative\.cxx\cmake\debug\arm64-v8a'
+ninja: no work to do.

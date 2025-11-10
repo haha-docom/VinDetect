@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "D:\\Sdk\\ndk\\21.4.7075529\\build\\cmake\\android.toolchain.cmake",
+    "D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\CMakeLists.txt",
+    "D:\\Sdk\\ndk\\21.4.7075529\\build\\cmake\\platforms.cmake"
+  ],
+  "cleanCommands": [
+    "D:\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\.cxx\\cmake\\debug\\x86\" clean"
+  ],
+  "buildTargetsCommand": "D:\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\.cxx\\cmake\\debug\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "nativelib-Debug-x86": {
+      "artifactName": "nativelib",
+      "buildCommand": "D:\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\.cxx\\cmake\\debug\\x86\" nativelib",
+      "abi": "x86",
+      "output": "D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\build\\intermediates\\cmake\\debug\\obj\\x86\\libnativelib.so",
+      "runtimeFiles": []
+    }
+  }
+}

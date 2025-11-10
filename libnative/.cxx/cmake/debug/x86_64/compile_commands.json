@@ -1,0 +1,157 @@
+[
+{
+  "directory": "D:/download/objectDetection/TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7/libnative/.cxx/cmake/debug/x86_64",
+  "command": "D:\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnativelib_EXPORTS -I\"D:/download/objectDetection/TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7/libnative/src/main/cpp/module/mp3/lame\"  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\nativelib.dir\\module\\mp3\\lame\\VbrTag.c.o   -c \"D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\VbrTag.c\"",
+  "file": "D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\VbrTag.c"
+},
+
+{
+  "directory": "D:/download/objectDetection/TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7/libnative/.cxx/cmake/debug/x86_64",
+  "command": "D:\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnativelib_EXPORTS -I\"D:/download/objectDetection/TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7/libnative/src/main/cpp/module/mp3/lame\"  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\nativelib.dir\\module\\mp3\\lame\\bitstream.c.o   -c \"D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\bitstream.c\"",
+  "file": "D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\bitstream.c"
+},
+
+{
+  "directory": "D:/download/objectDetection/TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7/libnative/.cxx/cmake/debug/x86_64",
+  "command": "D:\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnativelib_EXPORTS -I\"D:/download/objectDetection/TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7/libnative/src/main/cpp/module/mp3/lame\"  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\nativelib.dir\\module\\mp3\\lame\\encoder.c.o   -c \"D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\encoder.c\"",
+  "file": "D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\encoder.c"
+},
+
+{
+  "directory": "D:/download/objectDetection/TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7/libnative/.cxx/cmake/debug/x86_64",
+  "command": "D:\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnativelib_EXPORTS -I\"D:/download/objectDetection/TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7/libnative/src/main/cpp/module/mp3/lame\"  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\nativelib.dir\\module\\mp3\\lame\\fft.c.o   -c \"D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\fft.c\"",
+  "file": "D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\fft.c"
+},
+
+{
+  "directory": "D:/download/objectDetection/TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7/libnative/.cxx/cmake/debug/x86_64",
+  "command": "D:\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnativelib_EXPORTS -I\"D:/download/objectDetection/TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7/libnative/src/main/cpp/module/mp3/lame\"  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\nativelib.dir\\module\\mp3\\lame\\gain_analysis.c.o   -c \"D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\gain_analysis.c\"",
+  "file": "D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\gain_analysis.c"
+},
+
+{
+  "directory": "D:/download/objectDetection/TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7/libnative/.cxx/cmake/debug/x86_64",
+  "command": "D:\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnativelib_EXPORTS -I\"D:/download/objectDetection/TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7/libnative/src/main/cpp/module/mp3/lame\"  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\nativelib.dir\\module\\mp3\\lame\\id3tag.c.o   -c \"D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\id3tag.c\"",
+  "file": "D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\id3tag.c"
+},
+
+{
+  "directory": "D:/download/objectDetection/TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7/libnative/.cxx/cmake/debug/x86_64",
+  "command": "D:\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnativelib_EXPORTS -I\"D:/download/objectDetection/TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7/libnative/src/main/cpp/module/mp3/lame\"  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\nativelib.dir\\module\\mp3\\lame\\lame.c.o   -c \"D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\lame.c\"",
+  "file": "D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\lame.c"
+},
+
+{
+  "directory": "D:/download/objectDetection/TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7/libnative/.cxx/cmake/debug/x86_64",
+  "command": "D:\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnativelib_EXPORTS -I\"D:/download/objectDetection/TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7/libnative/src/main/cpp/module/mp3/lame\"  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\nativelib.dir\\module\\mp3\\lame\\mpglib_interface.c.o   -c \"D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\mpglib_interface.c\"",
+  "file": "D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\mpglib_interface.c"
+},
+
+{
+  "directory": "D:/download/objectDetection/TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7/libnative/.cxx/cmake/debug/x86_64",
+  "command": "D:\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnativelib_EXPORTS -I\"D:/download/objectDetection/TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7/libnative/src/main/cpp/module/mp3/lame\"  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\nativelib.dir\\module\\mp3\\lame\\newmdct.c.o   -c \"D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\newmdct.c\"",
+  "file": "D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\newmdct.c"
+},
+
+{
+  "directory": "D:/download/objectDetection/TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7/libnative/.cxx/cmake/debug/x86_64",
+  "command": "D:\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnativelib_EXPORTS -I\"D:/download/objectDetection/TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7/libnative/src/main/cpp/module/mp3/lame\"  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\nativelib.dir\\module\\mp3\\lame\\presets.c.o   -c \"D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\presets.c\"",
+  "file": "D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\presets.c"
+},
+
+{
+  "directory": "D:/download/objectDetection/TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7/libnative/.cxx/cmake/debug/x86_64",
+  "command": "D:\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnativelib_EXPORTS -I\"D:/download/objectDetection/TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7/libnative/src/main/cpp/module/mp3/lame\"  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\nativelib.dir\\module\\mp3\\lame\\psymodel.c.o   -c \"D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\psymodel.c\"",
+  "file": "D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\psymodel.c"
+},
+
+{
+  "directory": "D:/download/objectDetection/TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7/libnative/.cxx/cmake/debug/x86_64",
+  "command": "D:\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnativelib_EXPORTS -I\"D:/download/objectDetection/TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7/libnative/src/main/cpp/module/mp3/lame\"  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\nativelib.dir\\module\\mp3\\lame\\quantize.c.o   -c \"D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\quantize.c\"",
+  "file": "D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\quantize.c"
+},
+
+{
+  "directory": "D:/download/objectDetection/TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7/libnative/.cxx/cmake/debug/x86_64",
+  "command": "D:\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnativelib_EXPORTS -I\"D:/download/objectDetection/TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7/libnative/src/main/cpp/module/mp3/lame\"  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\nativelib.dir\\module\\mp3\\lame\\quantize_pvt.c.o   -c \"D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\quantize_pvt.c\"",
+  "file": "D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\quantize_pvt.c"
+},
+
+{
+  "directory": "D:/download/objectDetection/TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7/libnative/.cxx/cmake/debug/x86_64",
+  "command": "D:\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnativelib_EXPORTS -I\"D:/download/objectDetection/TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7/libnative/src/main/cpp/module/mp3/lame\"  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\nativelib.dir\\module\\mp3\\lame\\reservoir.c.o   -c \"D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\reservoir.c\"",
+  "file": "D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\reservoir.c"
+},
+
+{
+  "directory": "D:/download/objectDetection/TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7/libnative/.cxx/cmake/debug/x86_64",
+  "command": "D:\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnativelib_EXPORTS -I\"D:/download/objectDetection/TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7/libnative/src/main/cpp/module/mp3/lame\"  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\nativelib.dir\\module\\mp3\\lame\\set_get.c.o   -c \"D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\set_get.c\"",
+  "file": "D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\set_get.c"
+},
+
+{
+  "directory": "D:/download/objectDetection/TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7/libnative/.cxx/cmake/debug/x86_64",
+  "command": "D:\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnativelib_EXPORTS -I\"D:/download/objectDetection/TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7/libnative/src/main/cpp/module/mp3/lame\"  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\nativelib.dir\\module\\mp3\\lame\\tables.c.o   -c \"D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\tables.c\"",
+  "file": "D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\tables.c"
+},
+
+{
+  "directory": "D:/download/objectDetection/TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7/libnative/.cxx/cmake/debug/x86_64",
+  "command": "D:\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnativelib_EXPORTS -I\"D:/download/objectDetection/TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7/libnative/src/main/cpp/module/mp3/lame\"  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\nativelib.dir\\module\\mp3\\lame\\takehiro.c.o   -c \"D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\takehiro.c\"",
+  "file": "D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\takehiro.c"
+},
+
+{
+  "directory": "D:/download/objectDetection/TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7/libnative/.cxx/cmake/debug/x86_64",
+  "command": "D:\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnativelib_EXPORTS -I\"D:/download/objectDetection/TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7/libnative/src/main/cpp/module/mp3/lame\"  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\nativelib.dir\\module\\mp3\\lame\\util.c.o   -c \"D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\util.c\"",
+  "file": "D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\util.c"
+},
+
+{
+  "directory": "D:/download/objectDetection/TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7/libnative/.cxx/cmake/debug/x86_64",
+  "command": "D:\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnativelib_EXPORTS -I\"D:/download/objectDetection/TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7/libnative/src/main/cpp/module/mp3/lame\"  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\nativelib.dir\\module\\mp3\\lame\\vbrquantize.c.o   -c \"D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\vbrquantize.c\"",
+  "file": "D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\vbrquantize.c"
+},
+
+{
+  "directory": "D:/download/objectDetection/TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7/libnative/.cxx/cmake/debug/x86_64",
+  "command": "D:\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnativelib_EXPORTS -I\"D:/download/objectDetection/TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7/libnative/src/main/cpp/module/mp3/lame\"  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\nativelib.dir\\module\\mp3\\lame\\version.c.o   -c \"D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\version.c\"",
+  "file": "D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\version.c"
+},
+
+{
+  "directory": "D:/download/objectDetection/TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7/libnative/.cxx/cmake/debug/x86_64",
+  "command": "D:\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnativelib_EXPORTS -I\"D:/download/objectDetection/TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7/libnative/src/main/cpp/module/mp3/lame\"  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\nativelib.dir\\utils\\logger.cpp.o -c \"D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\utils\\logger.cpp\"",
+  "file": "D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\utils\\logger.cpp"
+},
+
+{
+  "directory": "D:/download/objectDetection/TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7/libnative/.cxx/cmake/debug/x86_64",
+  "command": "D:\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnativelib_EXPORTS -I\"D:/download/objectDetection/TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7/libnative/src/main/cpp/module/mp3/lame\"  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\nativelib.dir\\module\\yuv\\yuv.cpp.o -c \"D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\yuv\\yuv.cpp\"",
+  "file": "D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\yuv\\yuv.cpp"
+},
+
+{
+  "directory": "D:/download/objectDetection/TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7/libnative/.cxx/cmake/debug/x86_64",
+  "command": "D:\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnativelib_EXPORTS -I\"D:/download/objectDetection/TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7/libnative/src/main/cpp/module/mp3/lame\"  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\nativelib.dir\\module\\mp3\\mp3.cpp.o -c \"D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\mp3.cpp\"",
+  "file": "D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\mp3.cpp"
+},
+
+{
+  "directory": "D:/download/objectDetection/TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7/libnative/.cxx/cmake/debug/x86_64",
+  "command": "D:\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnativelib_EXPORTS -I\"D:/download/objectDetection/TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7/libnative/src/main/cpp/module/mp3/lame\"  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\nativelib.dir\\proxy\\proxy_yuv.cpp.o -c \"D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\proxy\\proxy_yuv.cpp\"",
+  "file": "D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\proxy\\proxy_yuv.cpp"
+},
+
+{
+  "directory": "D:/download/objectDetection/TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7/libnative/.cxx/cmake/debug/x86_64",
+  "command": "D:\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnativelib_EXPORTS -I\"D:/download/objectDetection/TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7/libnative/src/main/cpp/module/mp3/lame\"  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\nativelib.dir\\proxy\\proxy_mp3.cpp.o -c \"D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\proxy\\proxy_mp3.cpp\"",
+  "file": "D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\proxy\\proxy_mp3.cpp"
+},
+
+{
+  "directory": "D:/download/objectDetection/TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7/libnative/.cxx/cmake/debug/x86_64",
+  "command": "D:\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnativelib_EXPORTS -I\"D:/download/objectDetection/TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7/libnative/src/main/cpp/module/mp3/lame\"  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\nativelib.dir\\nativelib.cpp.o -c \"D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\nativelib.cpp\"",
+  "file": "D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\nativelib.cpp"
+}
+]

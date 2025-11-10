@@ -1,0 +1,7 @@
+Executable : D:\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+D:\download\objectDetection\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\libnative\.cxx\cmake\debug\x86
+nativelib
+jvmArgs : 
+

@@ -1,0 +1,171 @@
+{
+  "stringTable": {
+    "0": "D:/download/objectDetection/TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7/libnative/.cxx/cmake/debug/armeabi-v7a",
+    "1": "--target=armv7-none-linux-androideabi19 --gcc-toolchain=D:/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnativelib_EXPORTS -ID:/download/objectDetection/TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7/libnative/src/main/cpp/module/mp3/lame -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "D:\\Sdk\\ndk\\21.4.7075529\\build\\cmake\\android.toolchain.cmake",
+    "D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\CMakeLists.txt",
+    "D:\\Sdk\\ndk\\21.4.7075529\\build\\cmake\\platforms.cmake"
+  ],
+  "cleanCommands": [
+    "D:\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\.cxx\\cmake\\debug\\armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "D:\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\.cxx\\cmake\\debug\\armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "nativelib-Debug-armeabi-v7a": {
+      "buildCommand": "D:\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\.cxx\\cmake\\debug\\armeabi-v7a\" nativelib",
+      "buildType": "debug",
+      "toolchain": "590684772",
+      "abi": "armeabi-v7a",
+      "artifactName": "nativelib",
+      "files": [
+        {
+          "src": "D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\VbrTag.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\bitstream.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\encoder.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\fft.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\gain_analysis.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\id3tag.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\lame.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\mpglib_interface.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\newmdct.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\presets.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\psymodel.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\quantize.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\quantize_pvt.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\reservoir.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\set_get.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\tables.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\takehiro.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\util.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\vbrquantize.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\lame\\version.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\utils\\logger.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\yuv\\yuv.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\module\\mp3\\mp3.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\proxy\\proxy_yuv.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\proxy\\proxy_mp3.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\src\\main\\cpp\\nativelib.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\download\\objectDetection\\TFObjectDetectionDemoApp-master -90_TestModelAnhHieu_moblienetSSD7\\libnative\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\libnativelib.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "590684772": {
+      "cCompilerExecutable": "D:\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe",
+      "cppCompilerExecutable": "D:\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

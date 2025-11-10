@@ -1,0 +1,157 @@
+[
+{
+  "directory": "/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/.cxx/Debug/2x6j5g37/x86_64",
+  "command": "/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --gcc-toolchain=/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnativelib_EXPORTS -I/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/nativelib.dir/module/mp3/lame/VbrTag.c.o   -c /home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame/VbrTag.c",
+  "file": "/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame/VbrTag.c"
+},
+
+{
+  "directory": "/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/.cxx/Debug/2x6j5g37/x86_64",
+  "command": "/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --gcc-toolchain=/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnativelib_EXPORTS -I/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/nativelib.dir/module/mp3/lame/bitstream.c.o   -c /home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame/bitstream.c",
+  "file": "/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame/bitstream.c"
+},
+
+{
+  "directory": "/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/.cxx/Debug/2x6j5g37/x86_64",
+  "command": "/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --gcc-toolchain=/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnativelib_EXPORTS -I/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/nativelib.dir/module/mp3/lame/encoder.c.o   -c /home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame/encoder.c",
+  "file": "/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame/encoder.c"
+},
+
+{
+  "directory": "/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/.cxx/Debug/2x6j5g37/x86_64",
+  "command": "/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --gcc-toolchain=/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnativelib_EXPORTS -I/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/nativelib.dir/module/mp3/lame/fft.c.o   -c /home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame/fft.c",
+  "file": "/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame/fft.c"
+},
+
+{
+  "directory": "/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/.cxx/Debug/2x6j5g37/x86_64",
+  "command": "/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --gcc-toolchain=/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnativelib_EXPORTS -I/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/nativelib.dir/module/mp3/lame/gain_analysis.c.o   -c /home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame/gain_analysis.c",
+  "file": "/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame/gain_analysis.c"
+},
+
+{
+  "directory": "/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/.cxx/Debug/2x6j5g37/x86_64",
+  "command": "/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --gcc-toolchain=/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnativelib_EXPORTS -I/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/nativelib.dir/module/mp3/lame/id3tag.c.o   -c /home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame/id3tag.c",
+  "file": "/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame/id3tag.c"
+},
+
+{
+  "directory": "/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/.cxx/Debug/2x6j5g37/x86_64",
+  "command": "/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --gcc-toolchain=/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnativelib_EXPORTS -I/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/nativelib.dir/module/mp3/lame/lame.c.o   -c /home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame/lame.c",
+  "file": "/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame/lame.c"
+},
+
+{
+  "directory": "/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/.cxx/Debug/2x6j5g37/x86_64",
+  "command": "/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --gcc-toolchain=/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnativelib_EXPORTS -I/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/nativelib.dir/module/mp3/lame/mpglib_interface.c.o   -c /home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame/mpglib_interface.c",
+  "file": "/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame/mpglib_interface.c"
+},
+
+{
+  "directory": "/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/.cxx/Debug/2x6j5g37/x86_64",
+  "command": "/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --gcc-toolchain=/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnativelib_EXPORTS -I/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/nativelib.dir/module/mp3/lame/newmdct.c.o   -c /home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame/newmdct.c",
+  "file": "/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame/newmdct.c"
+},
+
+{
+  "directory": "/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/.cxx/Debug/2x6j5g37/x86_64",
+  "command": "/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --gcc-toolchain=/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnativelib_EXPORTS -I/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/nativelib.dir/module/mp3/lame/presets.c.o   -c /home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame/presets.c",
+  "file": "/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame/presets.c"
+},
+
+{
+  "directory": "/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/.cxx/Debug/2x6j5g37/x86_64",
+  "command": "/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --gcc-toolchain=/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnativelib_EXPORTS -I/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/nativelib.dir/module/mp3/lame/psymodel.c.o   -c /home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame/psymodel.c",
+  "file": "/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame/psymodel.c"
+},
+
+{
+  "directory": "/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/.cxx/Debug/2x6j5g37/x86_64",
+  "command": "/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --gcc-toolchain=/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnativelib_EXPORTS -I/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/nativelib.dir/module/mp3/lame/quantize.c.o   -c /home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame/quantize.c",
+  "file": "/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame/quantize.c"
+},
+
+{
+  "directory": "/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/.cxx/Debug/2x6j5g37/x86_64",
+  "command": "/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --gcc-toolchain=/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnativelib_EXPORTS -I/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/nativelib.dir/module/mp3/lame/quantize_pvt.c.o   -c /home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame/quantize_pvt.c",
+  "file": "/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame/quantize_pvt.c"
+},
+
+{
+  "directory": "/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/.cxx/Debug/2x6j5g37/x86_64",
+  "command": "/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --gcc-toolchain=/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnativelib_EXPORTS -I/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/nativelib.dir/module/mp3/lame/reservoir.c.o   -c /home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame/reservoir.c",
+  "file": "/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame/reservoir.c"
+},
+
+{
+  "directory": "/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/.cxx/Debug/2x6j5g37/x86_64",
+  "command": "/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --gcc-toolchain=/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnativelib_EXPORTS -I/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/nativelib.dir/module/mp3/lame/set_get.c.o   -c /home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame/set_get.c",
+  "file": "/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame/set_get.c"
+},
+
+{
+  "directory": "/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/.cxx/Debug/2x6j5g37/x86_64",
+  "command": "/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --gcc-toolchain=/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnativelib_EXPORTS -I/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/nativelib.dir/module/mp3/lame/tables.c.o   -c /home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame/tables.c",
+  "file": "/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame/tables.c"
+},
+
+{
+  "directory": "/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/.cxx/Debug/2x6j5g37/x86_64",
+  "command": "/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --gcc-toolchain=/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnativelib_EXPORTS -I/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/nativelib.dir/module/mp3/lame/takehiro.c.o   -c /home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame/takehiro.c",
+  "file": "/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame/takehiro.c"
+},
+
+{
+  "directory": "/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/.cxx/Debug/2x6j5g37/x86_64",
+  "command": "/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --gcc-toolchain=/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnativelib_EXPORTS -I/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/nativelib.dir/module/mp3/lame/util.c.o   -c /home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame/util.c",
+  "file": "/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame/util.c"
+},
+
+{
+  "directory": "/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/.cxx/Debug/2x6j5g37/x86_64",
+  "command": "/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --gcc-toolchain=/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnativelib_EXPORTS -I/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/nativelib.dir/module/mp3/lame/vbrquantize.c.o   -c /home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame/vbrquantize.c",
+  "file": "/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame/vbrquantize.c"
+},
+
+{
+  "directory": "/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/.cxx/Debug/2x6j5g37/x86_64",
+  "command": "/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --gcc-toolchain=/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnativelib_EXPORTS -I/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/nativelib.dir/module/mp3/lame/version.c.o   -c /home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame/version.c",
+  "file": "/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame/version.c"
+},
+
+{
+  "directory": "/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/.cxx/Debug/2x6j5g37/x86_64",
+  "command": "/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android21 --gcc-toolchain=/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dnativelib_EXPORTS -I/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/nativelib.dir/utils/logger.cpp.o -c /home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/utils/logger.cpp",
+  "file": "/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/utils/logger.cpp"
+},
+
+{
+  "directory": "/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/.cxx/Debug/2x6j5g37/x86_64",
+  "command": "/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android21 --gcc-toolchain=/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dnativelib_EXPORTS -I/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/nativelib.dir/module/yuv/yuv.cpp.o -c /home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/yuv/yuv.cpp",
+  "file": "/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/yuv/yuv.cpp"
+},
+
+{
+  "directory": "/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/.cxx/Debug/2x6j5g37/x86_64",
+  "command": "/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android21 --gcc-toolchain=/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dnativelib_EXPORTS -I/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/nativelib.dir/module/mp3/mp3.cpp.o -c /home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/mp3.cpp",
+  "file": "/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/mp3.cpp"
+},
+
+{
+  "directory": "/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/.cxx/Debug/2x6j5g37/x86_64",
+  "command": "/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android21 --gcc-toolchain=/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dnativelib_EXPORTS -I/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/nativelib.dir/proxy/proxy_yuv.cpp.o -c /home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/proxy/proxy_yuv.cpp",
+  "file": "/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/proxy/proxy_yuv.cpp"
+},
+
+{
+  "directory": "/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/.cxx/Debug/2x6j5g37/x86_64",
+  "command": "/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android21 --gcc-toolchain=/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dnativelib_EXPORTS -I/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/nativelib.dir/proxy/proxy_mp3.cpp.o -c /home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/proxy/proxy_mp3.cpp",
+  "file": "/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/proxy/proxy_mp3.cpp"
+},
+
+{
+  "directory": "/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/.cxx/Debug/2x6j5g37/x86_64",
+  "command": "/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android21 --gcc-toolchain=/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/duongnh/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dnativelib_EXPORTS -I/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/module/mp3/lame  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/nativelib.dir/nativelib.cpp.o -c /home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/nativelib.cpp",
+  "file": "/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/src/main/cpp/nativelib.cpp"
+}
+]

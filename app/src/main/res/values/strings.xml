@@ -1,0 +1,11 @@
+<resources>
+    <string name="tfe_od_app_name" translation_description="Object Detection demo app [CHAR_LIMIT=40]">BHS Detect</string>
+    <string name="tfe_od_camera_error" translation_description="Error regarding camera support[CHAR_LIMIT=40]">Thiết bị này không hỗ trợ Camera2 API.</string>
+    
+    <!-- Processor options for spinner -->
+    <string-array name="processor_options">
+        <item>CPU</item>
+        <item>NPU (NNAPI)</item>
+        <item>GPU</item>
+    </string-array>
+</resources>

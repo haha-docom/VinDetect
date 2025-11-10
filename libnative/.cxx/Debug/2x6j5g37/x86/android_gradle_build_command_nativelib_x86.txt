@@ -1,0 +1,7 @@
+Executable : /home/duongnh/Android/Sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/.cxx/Debug/2x6j5g37/x86
+nativelib
+jvmArgs : 
+

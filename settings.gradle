@@ -1,0 +1,6 @@
+rootProject.name = 'TFLite Object Detection Demo App'
+include ':app' ,':tensorflow-lite'
+// For debug online
+include ':libausbc'
+include ':libuvc'
+include ':libnative'

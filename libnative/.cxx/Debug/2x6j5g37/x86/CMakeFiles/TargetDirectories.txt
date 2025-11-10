@@ -1,0 +1,3 @@
+/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/.cxx/Debug/2x6j5g37/x86/CMakeFiles/rebuild_cache.dir
+/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/.cxx/Debug/2x6j5g37/x86/CMakeFiles/edit_cache.dir
+/home/duongnh/Documents/objectDetection/TFObjectDetectionDemoApp-master-90-4/libnative/.cxx/Debug/2x6j5g37/x86/CMakeFiles/nativelib.dir
